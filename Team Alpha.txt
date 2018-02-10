@@ -1,0 +1,18 @@
+	Team Alpha
+
+1. Isaac Newton (Captain)
+2. Galileo Galilei
+3. Blaise Pascal
+4. Daniel Bernoulli
+5. Nicolas Copernicus
+6. Aristotle
+7. Archimedes
+8. Leonardo da Vinci
+9. Johannes Kepler
+10. Robert Hooke 
+11. Tycho Brahe
+
+Extras:
+
+1. Antoine Lavoisier
+2. Plato
